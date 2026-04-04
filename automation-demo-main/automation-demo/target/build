@@ -1,0 +1,98 @@
+{
+  "last_build_time": 1775283814679,
+  "last_update_time": 1775283814679,
+  "last_bal_toml_update_time": 1775283640295,
+  "distribution_version": "2201.13.2",
+  "last_modified_time": {
+    "automation_demo": 1775283795276
+  },
+  "last_build_options": {
+    "testReport": false,
+    "codeCoverage": false,
+    "skipTests": true,
+    "compilationOptions": {
+      "experimental": false,
+      "cloud": "",
+      "dumpGraph": false,
+      "dumpRawGraphs": false
+    }
+  },
+  "src_meta_info": [
+    {
+      "file": "c:\\Users\\10828866\\Downloads\\automation-demo-main\\automation-demo\\agents.bal",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0,
+      "lastModifiedTime": 1775283670524
+    },
+    {
+      "file": "c:\\Users\\10828866\\Downloads\\automation-demo-main\\automation-demo\\automation.bal",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0,
+      "lastModifiedTime": 1775283670526
+    },
+    {
+      "file": "c:\\Users\\10828866\\Downloads\\automation-demo-main\\automation-demo\\Ballerina.toml",
+      "hash": "3d633e27bd79ab6855763030ce9ac7bf8807e49d9a610b034ff34442751b1d82",
+      "size": 78,
+      "lastModifiedTime": 1775283640295
+    },
+    {
+      "file": "c:\\Users\\10828866\\Downloads\\automation-demo-main\\automation-demo\\config.bal",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0,
+      "lastModifiedTime": 1775283670528
+    },
+    {
+      "file": "c:\\Users\\10828866\\Downloads\\automation-demo-main\\automation-demo\\connections.bal",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0,
+      "lastModifiedTime": 1775283670532
+    },
+    {
+      "file": "c:\\Users\\10828866\\Downloads\\automation-demo-main\\automation-demo\\data_mappings.bal",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0,
+      "lastModifiedTime": 1775283670533
+    },
+    {
+      "file": "c:\\Users\\10828866\\Downloads\\automation-demo-main\\automation-demo\\functions.bal",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0,
+      "lastModifiedTime": 1775283670537
+    },
+    {
+      "file": "c:\\Users\\10828866\\Downloads\\automation-demo-main\\automation-demo\\main.bal",
+      "hash": "f4c736f8181d7189c64792a809fc33c57d68f3610d7e4358b5bfcbfd6fad07c3",
+      "size": 244,
+      "lastModifiedTime": 1775283795276
+    },
+    {
+      "file": "c:\\Users\\10828866\\Downloads\\automation-demo-main\\automation-demo\\types.bal",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0,
+      "lastModifiedTime": 1775283670542
+    }
+  ],
+  "target_exec_meta_info": {
+    "file": "c:\\Users\\10828866\\Downloads\\automation-demo-main\\automation-demo\\target\\backup\\bin\\automation_demo.jar",
+    "hash": "3f9eb90355de988f67bce77554107cc038184ccb695a19710573f8174f7d5ad8",
+    "size": 10693735,
+    "lastModifiedTime": 1775283816613
+  },
+  "settings_meta_info": {
+    "file": "C:\\Users\\10828866\\.ballerina\\Settings.toml",
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "size": 0,
+    "lastModifiedTime": 1773732486840
+  },
+  "ballerina_toml_meta_info": {
+    "file": "c:\\Users\\10828866\\Downloads\\automation-demo-main\\automation-demo\\Ballerina.toml",
+    "hash": "3d633e27bd79ab6855763030ce9ac7bf8807e49d9a610b034ff34442751b1d82",
+    "size": 78,
+    "lastModifiedTime": 1775283640295
+  },
+  "imports": [
+    "ballerina/io",
+    "ballerina/time"
+  ]
+}

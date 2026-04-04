@@ -1,0 +1,9 @@
+[package]
+org = "coder"
+name = "automation_demo"
+version = "0.1.0"
+distribution = "2201.13.1"
+title = "Automation-demo"
+
+[build-options]
+sticky = true
